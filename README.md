@@ -1,6 +1,6 @@
 # Nextjs Ecommerse
 
- ## Ecommerse
+ ##  Ecommerce moderno y escalable que ofrece una experiencia de usuario excepcional y un proceso de desarrollo eficiente,plataforma robusta y adaptable que cumpla con las necesidades de usuarios y clientes.
  
  ### Built With
 
