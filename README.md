@@ -31,10 +31,8 @@ npm run dev
 
 ### Live
 
-```
 https://nextjs-ecommerce-francislagares.vercel.app/
 
-```
 
 
 ![1](https://github.com/GonzaloVolonterio/ecommerce-topfashion/assets/64506662/23a9579e-b335-49a5-920e-a4ef13bab645)
