@@ -1,5 +1,7 @@
 # Nextjs Ecommerse
 
+## Full Stack Next.js 14 e-commerce website with secure Stripe payment and Sanity.io for content management.
+
  ##  Modern and scalable ecommerce that offers an exceptional user experience and an efficient development process, robust and adaptable platform that meets the needs of users and customers.
  
  ### Built With
@@ -26,6 +28,14 @@ npm install
 
 npm run dev
 ```
+
+### Live
+
+```
+https://nextjs-ecommerce-francislagares.vercel.app/
+
+```
+
 
 ![1](https://github.com/GonzaloVolonterio/ecommerce-topfashion/assets/64506662/23a9579e-b335-49a5-920e-a4ef13bab645)
 
